@@ -1,0 +1,11 @@
+{
+    "sender_email": "your_gmail_address",
+    "sender_password": "your_app_password (Please see README.md for details)",
+    "recipient_email": "reciever_gmail_address",
+    "db_name": "tejzautometrics_db",
+    "table_name": "tejz_data",
+    "report_folder": "your_report_folder_path",
+    "report_file_excel": "TejzAutometrics_report.xlsx",
+    "report_file_pdf": "TejzAutometrics_report.pdf"
+    
+  }
