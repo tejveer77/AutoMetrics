@@ -15,7 +15,7 @@ Tejz AutoMetrics is a Python automation tool for IT systems—processes Excel/CS
 - Dependencies: `pandas`, `numpy`, `sqlite3`, `fpdf`, `tkinter` , `logging` , `os` , `shutil`
 
 ## Installation
-1. Unzip `Tejz_AutoMetrics`.
+1. Clone `Tejz_AutoMetrics`.
 2. Install dependencies:
    ```bash
    pip install pandas numpy fpdf logging
