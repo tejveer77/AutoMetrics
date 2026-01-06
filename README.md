@@ -1,7 +1,7 @@
-# Tejz AutoMetrics 
+# AutoMetrics 
 
 ## Overview
-Tejz AutoMetrics is a Python automation tool for IT systems—processes Excel/CSV/TXT files, calculates key metrics (e.g., totals, averages), stores data in SQLite, and generates Excel/PDF reports. Reports are emailed with "TejzAutoMetrics Analysis Report" and "Attached: Data report with key metrics."
+AutoMetrics is a Python automation tool for IT systems—processes Excel/CSV/TXT files, calculates key metrics (e.g., totals, averages), stores data in SQLite, and generates Excel/PDF reports. Reports are emailed with "TejzAutoMetrics Analysis Report" and "Attached: Data report with key metrics."
 
 ## Features
 - **Dynamic Schema**: Adapts SQLite to any dataset.
@@ -15,7 +15,7 @@ Tejz AutoMetrics is a Python automation tool for IT systems—processes Excel/CS
 - Dependencies: `pandas`, `numpy`, `sqlite3`, `fpdf`, `tkinter` , `logging` , `os` , `shutil`
 
 ## Installation
-1. Clone `Tejz_AutoMetrics`.
+1. Clone `AutoMetrics`.
 2. Install dependencies:
    ```bash
    pip install pandas numpy fpdf logging
